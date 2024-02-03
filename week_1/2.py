@@ -1,2 +1,2 @@
-m = 25+6
-print(m)
+if 5 > 2:
+  print("Five is greater than two!")
